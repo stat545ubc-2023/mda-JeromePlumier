@@ -1,4 +1,4 @@
-This is Jérôme Plumier's GitHub repository for STAT545's MDA R project. 
+This is Jérôme Plumier's GitHub repository for STAT545A's MDA R project. 
 
 ## Project Overview
 In this project, we explore, visualise, and analyse various datasets contained in the `datateachr` package. For this project, I chose to investigate the `vancouver_trees` dataset.
