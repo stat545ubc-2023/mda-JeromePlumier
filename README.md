@@ -20,6 +20,7 @@ The objectives of this project are divided in two parts:
 ## Content Description
 A folder will be created for each milestone.
 - The Milestone 1 Folder contains the files needed for the Milestone 1 submission.
+- The Milestone 2 Folder contains the files needed for the Milestone 2 submission.
 
 ## Interacting with the repository
 **To run code:** Clone the repository and open the chosen `.Rmd` file using JupyterLab or RStudio. The files can then be run. 
